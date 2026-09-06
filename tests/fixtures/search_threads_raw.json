@@ -1,0 +1,16 @@
+{
+  "threads": [
+    {
+      "id": "1a078384134bcbea",
+      "snippet": "Here are .txt and .csv attachments.",
+      "historyId": "15674908"
+    },
+    {
+      "id": "1a0783250b4df5dd",
+      "snippet": "Thank you for your email. On Sun, 6 Sept 2026 at 20:29, Alice wrote: &gt; &gt;",
+      "historyId": "15674780"
+    }
+  ],
+  "nextPageToken": null,
+  "resultSizeEstimate": 2
+}

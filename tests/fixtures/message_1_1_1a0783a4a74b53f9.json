@@ -1,0 +1,162 @@
+{
+  "id": "1a0783a4a74b53f9",
+  "threadId": "1a078384134bcbea",
+  "labelIds": [
+    "UNREAD",
+    "IMPORTANT",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Here are .txt and .csv attachments.",
+  "payload": {
+    "partId": "",
+    "mimeType": "multipart/mixed",
+    "filename": "",
+    "headers": [
+      {
+        "name": "MIME-Version",
+        "value": "1.0"
+      },
+      {
+        "name": "Date",
+        "value": "Sun, 6 Sep 2026 20:38:00 +0100"
+      },
+      {
+        "name": "Message-ID",
+        "value": "<CAPzVZK=9vxgMUnFNnff_XS+o-KFEMTFtk_KWfGTGg753rArEng@mail.gmail.com>"
+      },
+      {
+        "name": "Subject",
+        "value": "Follow-up ce2fbe86"
+      },
+      {
+        "name": "From",
+        "value": "Bob <bob@example.com>"
+      },
+      {
+        "name": "To",
+        "value": "Alice <alice@example.com>"
+      },
+      {
+        "name": "Content-Type",
+        "value": "multipart/mixed; boundary=\"000000000000b1b089065ad5a3e8\""
+      }
+    ],
+    "body": {
+      "size": 0
+    },
+    "parts": [
+      {
+        "partId": "0",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000b1b086065ad5a3e6\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0.0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              }
+            ],
+            "body": {
+              "size": 37,
+              "data": "SGVyZSBhcmUgLnR4dCBhbmQgLmNzdiBhdHRhY2htZW50cy4NCg=="
+            }
+          },
+          {
+            "partId": "0.1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              }
+            ],
+            "body": {
+              "size": 84,
+              "data": "PGRpdiBkaXI9Imx0ciI-PGRpdj5IZXJlIGFyZSAudHh0IGFuZCAuY3N2IGF0dGFjaG1lbnRzLjwvZGl2PjxkaXY-PGJyPjwvZGl2PjwvZGl2Pg0K"
+            }
+          }
+        ]
+      },
+      {
+        "partId": "1",
+        "mimeType": "text/plain",
+        "filename": "testfile.txt",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "text/plain; charset=\"UTF-8\"; name=\"testfile.txt\""
+          },
+          {
+            "name": "Content-Disposition",
+            "value": "attachment; filename=\"testfile.txt\""
+          },
+          {
+            "name": "Content-Transfer-Encoding",
+            "value": "base64"
+          },
+          {
+            "name": "X-Attachment-Id",
+            "value": "f_mtq7rwyn1"
+          },
+          {
+            "name": "Content-ID",
+            "value": "<f_mtq7rwyn1>"
+          }
+        ],
+        "body": {
+          "attachmentId": "ANGjdJ9TUqmrnoa0ZIesCG27ZSRZ8zJ1hC5wE_WTT7UyDfLvSNyGf_6v8Kch2ak8cNliRw0KcFatJebcAMzob6nyEs-LvrHCwgM5jPc1F-FxhP62aYqGZAbEJ8mv6RzwK-C41uM9Z0yKS1YHJsVCrlCYq1FXvBaI4k-Ik7sWkvHC7_EuQD37DOmtxtGTByO_d8dK5gx4LvBeFlHwvvr0noZQbecOUZChR3NtyiclMF_stoF-gB11JmGmkg1uWvA8GJsAfvi8WwS0REcUoNKVAIRvkT_wYVmuqDicnqtKlTpbnGDyenKtfZi9LBdky3U",
+          "size": 334
+        }
+      },
+      {
+        "partId": "2",
+        "mimeType": "text/csv",
+        "filename": "testfile.csv",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "text/csv; charset=\"US-ASCII\"; name=\"testfile.csv\""
+          },
+          {
+            "name": "Content-Disposition",
+            "value": "attachment; filename=\"testfile.csv\""
+          },
+          {
+            "name": "Content-Transfer-Encoding",
+            "value": "base64"
+          },
+          {
+            "name": "X-Attachment-Id",
+            "value": "f_mtq7rwxx0"
+          },
+          {
+            "name": "Content-ID",
+            "value": "<f_mtq7rwxx0>"
+          }
+        ],
+        "body": {
+          "attachmentId": "ANGjdJ9qOi0Xa9CWqTANLWpWYuQ37OAI4_OAv8DbPreKNnXPKwQml_TkPp5mAi82eMw4F3siMUvGUa6afMPzDh3XZn4eTqGVZ2AuxW1OYSFzTG9TNlGGRziZXp_c6x69BB8rqu6w8WfnE2g1A3I2k0SaGD723W7qPkW5FSOJlNrcJZ7NRysp0hD_E7qJ95d9-5grlksZ_WxpaxlRM0bNPQ0bla1BlPcU9BLb80AxoYdCaRDblgla077ISp8xTDOy2gePMODRPSeasx7Rzaysp8DysJ5az3cLtdeezhhTAuJLcdaJF58awAAXvUfHpE_mXZX08UBhftQQx59cbD2_",
+          "size": 132
+        }
+      }
+    ]
+  },
+  "sizeEstimate": 1916,
+  "historyId": "15674908",
+  "internalDate": "1788723480000"
+}

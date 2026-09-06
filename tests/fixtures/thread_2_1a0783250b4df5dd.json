@@ -1,0 +1,275 @@
+{
+  "id": "1a0783250b4df5dd",
+  "historyId": "15674780",
+  "messages": [
+    {
+      "id": "1a0783250b4df5dd",
+      "threadId": "1a0783250b4df5dd",
+      "labelIds": [
+        "CATEGORY_PERSONAL",
+        "SENT",
+        "INBOX"
+      ],
+      "snippet": "",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/mixed",
+        "filename": "",
+        "headers": [
+          {
+            "name": "X-Gm-Message-State",
+            "value": "AFuF++mQ7X6MMgLxQHWwzdcbxWnwZ1Kd4c/ReNoRw+2bZGZDMqdoCT3o Tp2ObgDZ1t796koxtOjdJybSYezAjuKyvhLWtcPgEYwKC0g1b7ffxYhy1uW0sPVu8tLj+Y/fZPl heqKt8+pSfpgVdsrWBAkxkQJlq88IcFKOY0J5"
+          },
+          {
+            "name": "X-Gm-Gg",
+            "value": "AYBFou0e7wjgk3Mzc0sjaVGB7O5k2LdttLVTTGWTPVpagqlYR99zBd1JCoEBccotFAO ZHZaSbAsM2gczOD6WEhi5yYSUwPUeI4OpvdhdLqY6Zi9Hte7B9lClT0PMgYVomWIkKdEu/5ixUm USbSrhfyQWE9ZeAHsRb91boVlqj8G+cWAJ1HdAAjPjl/RflFgIrdF8169wpRqihITboYizNEQmR zFpMM+UP4o1TsLXcix6O4buyrChZw5+x+woCBXS+RALvn0IQ/AaAEdjtqq9gqGnvi9h78ReY9j6 fjl/un0oE9JeeuWqMY6sDlwf5yXvJ2NDmFM9x91Romoi"
+          },
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "From",
+            "value": "Alice <alice@example.com>"
+          },
+          {
+            "name": "Date",
+            "value": "Sun, 6 Sep 2026 20:28:55 +0100"
+          },
+          {
+            "name": "X-Gm-Features",
+            "value": "AcwNN1V_KCKs2crD0Dxa1DsHXWknO8WNAHbzanjT62944AuBD5jZz2RuyT2tzSI"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Test email ce2fbe86"
+          },
+          {
+            "name": "To",
+            "value": "Bob <bob@example.com>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/mixed; boundary=\"000000000000d92b42065ad5830e\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "multipart/alternative",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "multipart/alternative; boundary=\"000000000000d92b41065ad5830c\""
+              }
+            ],
+            "body": {
+              "size": 0
+            },
+            "parts": [
+              {
+                "partId": "0.0",
+                "mimeType": "text/plain",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/plain; charset=\"UTF-8\""
+                  }
+                ],
+                "body": {
+                  "size": 2,
+                  "data": "DQo="
+                }
+              },
+              {
+                "partId": "0.1",
+                "mimeType": "text/html",
+                "filename": "",
+                "headers": [
+                  {
+                    "name": "Content-Type",
+                    "value": "text/html; charset=\"UTF-8\""
+                  }
+                ],
+                "body": {
+                  "size": 27,
+                  "data": "PGRpdiBkaXI9Imx0ciI-PGJyPjwvZGl2Pg0K"
+                }
+              }
+            ]
+          },
+          {
+            "partId": "1",
+            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filename": "Test document.docx",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"Test document.docx\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"Test document.docx\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mtq7fnkd0>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mtq7fnkd0"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ-SriH4paMpbAoy8hqRv765QcyFZHOb2yKG3Cz0AdX1KcWyBmUUgYB5dZ2-kDeOL4sUtRNNtno_Ntue7iBxmHmZIFP04HQwFGryMAgpRxMhNQcclUojNv5J5tmTfnxLzPJfFEypUT8U7wDJT7PRHT4SbRblRCTMkz3MXQqZn40JfXCghi9HHYZkRr7Ubtpi1aiMDiE2Od1JCinzn1ehE7FcLRaTuAomfxBYFsf1XlsI0LXKiozyp88BYVaf4z_GE73E8-s-mx7VSuvsQ5egskYq6JZJRUKc62nbqBgYNCjUY9SLlKTz0_WmaKhcgmOSaNoAru5oxWzvD0sQAOycCGlm1-LLZQUUKRlkNLDbBiELMkeZbod-KbNgneSLx4KMBHiumirycdXOAE47",
+              "size": 7690
+            }
+          },
+          {
+            "partId": "2",
+            "mimeType": "application/pdf",
+            "filename": "Test document.pdf",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "application/pdf; name=\"Test document.pdf\""
+              },
+              {
+                "name": "Content-Disposition",
+                "value": "attachment; filename=\"Test document.pdf\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "base64"
+              },
+              {
+                "name": "Content-ID",
+                "value": "<f_mtq7fnkm1>"
+              },
+              {
+                "name": "X-Attachment-Id",
+                "value": "f_mtq7fnkm1"
+              }
+            ],
+            "body": {
+              "attachmentId": "ANGjdJ9HnxppuMx23la9EeCFOdAuNH-tOFC_zpUvuX4AGr1Zpu3C307hTKsKVmO5-JQt4JwtzjG_CMykBa8i1SVA7l-9I4tfVc18FL0kWjlpHVY6Kiq7HDl7y64xJlLKZdXGH6UBkuAlAFHuttlLeNFYBdB3ba5KyRONNyliEXWCj1UO_hJvcVEwkI3N5BgzY2gA4ZfG4BC-a-XrnBW7B9yXIzx0myQRZwOOJrYkT8UZ3r-1Gh40ZYR-rya0udag6AmoDlaQXvHBmF5xD5jf1f9vIKuRB_2gzHafqfmnM6fqJ78IovnZ1BTZdRAGWpFRLTv830yM3mBbgf0-Y6S4p-JZPXf0KhPW-kYiCuXHXHDkoMa9ZpO2PUwmmqCIh0AuU-CUU4JD-O_j6uAFd0qh",
+              "size": 35951
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 67390,
+      "historyId": "15674768",
+      "internalDate": "1788722935000"
+    },
+    {
+      "id": "1a07837b83b36bc6",
+      "threadId": "1a0783250b4df5dd",
+      "labelIds": [
+        "UNREAD",
+        "IMPORTANT",
+        "SENT",
+        "INBOX"
+      ],
+      "snippet": "Thank you for your email. On Sun, 6 Sept 2026 at 20:29, Alice &lt;alice@example.com&gt; wrote:",
+      "payload": {
+        "partId": "",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "MIME-Version",
+            "value": "1.0"
+          },
+          {
+            "name": "Date",
+            "value": "Sun, 6 Sep 2026 20:35:12 +0100"
+          },
+          {
+            "name": "References",
+            "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+          },
+          {
+            "name": "In-Reply-To",
+            "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+          },
+          {
+            "name": "Message-ID",
+            "value": "<CAPzVZKmnRkR-1==OE34T0h_NYqf_sKBrvZ=E8BvwUhUW1VLsTA@mail.gmail.com>"
+          },
+          {
+            "name": "Subject",
+            "value": "Re: Test email ce2fbe86"
+          },
+          {
+            "name": "From",
+            "value": "Bob <bob@example.com>"
+          },
+          {
+            "name": "To",
+            "value": "Alice <alice@example.com>"
+          },
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000a86600065ad599c2\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              }
+            ],
+            "body": {
+              "size": 111,
+              "data": "VGhhbmsgeW91IGZvciB5b3VyIGVtYWlsLg0KDQpPbiBTdW4sIDYgU2VwdCAyMDI2IGF0IDIwOjI5LCBBbGljZSA8YWxpY2VAZXhhbXBsZS5jb20-IHdyb3RlOg0KDQo-DQo-DQo="
+            }
+          },
+          {
+            "partId": "1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              },
+              {
+                "name": "Content-Transfer-Encoding",
+                "value": "quoted-printable"
+              }
+            ],
+            "body": {
+              "size": 432,
+              "data": "PGRpdiBkaXI9Imx0ciI-VGhhbmsgeW91wqBmb3IgeW91ciBlbWFpbC48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUgZ21haWxfcXVvdGVfY29udGFpbmVyIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-T24gU3VuLCA2IFNlcHQgMjAyNiBhdCAyMDoyOSwgQWxpY2UgJmx0OzxhIGhyZWY9Im1haWx0bzphbGljZUBleGFtcGxlLmNvbSI-YWxpY2VAZXhhbXBsZS5jb208L2E-Jmd0OyB3cm90ZTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPjxicj48L2Rpdj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCg=="
+            }
+          }
+        ]
+      },
+      "sizeEstimate": 1309,
+      "historyId": "15674780",
+      "internalDate": "1788723312000"
+    }
+  ]
+}

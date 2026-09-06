@@ -1,0 +1,173 @@
+{
+  "id": "1a0783250b4df5dd",
+  "threadId": "1a0783250b4df5dd",
+  "labelIds": [
+    "CATEGORY_PERSONAL",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "",
+  "payload": {
+    "partId": "",
+    "mimeType": "multipart/mixed",
+    "filename": "",
+    "headers": [
+      {
+        "name": "X-Gm-Message-State",
+        "value": "AFuF++mQ7X6MMgLxQHWwzdcbxWnwZ1Kd4c/ReNoRw+2bZGZDMqdoCT3o Tp2ObgDZ1t796koxtOjdJybSYezAjuKyvhLWtcPgEYwKC0g1b7ffxYhy1uW0sPVu8tLj+Y/fZPl heqKt8+pSfpgVdsrWBAkxkQJlq88IcFKOY0J5"
+      },
+      {
+        "name": "X-Gm-Gg",
+        "value": "AYBFou0e7wjgk3Mzc0sjaVGB7O5k2LdttLVTTGWTPVpagqlYR99zBd1JCoEBccotFAO ZHZaSbAsM2gczOD6WEhi5yYSUwPUeI4OpvdhdLqY6Zi9Hte7B9lClT0PMgYVomWIkKdEu/5ixUm USbSrhfyQWE9ZeAHsRb91boVlqj8G+cWAJ1HdAAjPjl/RflFgIrdF8169wpRqihITboYizNEQmR zFpMM+UP4o1TsLXcix6O4buyrChZw5+x+woCBXS+RALvn0IQ/AaAEdjtqq9gqGnvi9h78ReY9j6 fjl/un0oE9JeeuWqMY6sDlwf5yXvJ2NDmFM9x91Romoi"
+      },
+      {
+        "name": "MIME-Version",
+        "value": "1.0"
+      },
+      {
+        "name": "From",
+        "value": "Alice <alice@example.com>"
+      },
+      {
+        "name": "Date",
+        "value": "Sun, 6 Sep 2026 20:28:55 +0100"
+      },
+      {
+        "name": "X-Gm-Features",
+        "value": "AcwNN1V_KCKs2crD0Dxa1DsHXWknO8WNAHbzanjT62944AuBD5jZz2RuyT2tzSI"
+      },
+      {
+        "name": "Message-ID",
+        "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+      },
+      {
+        "name": "Subject",
+        "value": "Test email ce2fbe86"
+      },
+      {
+        "name": "To",
+        "value": "Bob <bob@example.com>"
+      },
+      {
+        "name": "Content-Type",
+        "value": "multipart/mixed; boundary=\"000000000000d92b42065ad5830e\""
+      }
+    ],
+    "body": {
+      "size": 0
+    },
+    "parts": [
+      {
+        "partId": "0",
+        "mimeType": "multipart/alternative",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "multipart/alternative; boundary=\"000000000000d92b41065ad5830c\""
+          }
+        ],
+        "body": {
+          "size": 0
+        },
+        "parts": [
+          {
+            "partId": "0.0",
+            "mimeType": "text/plain",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/plain; charset=\"UTF-8\""
+              }
+            ],
+            "body": {
+              "size": 2,
+              "data": "DQo="
+            }
+          },
+          {
+            "partId": "0.1",
+            "mimeType": "text/html",
+            "filename": "",
+            "headers": [
+              {
+                "name": "Content-Type",
+                "value": "text/html; charset=\"UTF-8\""
+              }
+            ],
+            "body": {
+              "size": 27,
+              "data": "PGRpdiBkaXI9Imx0ciI-PGJyPjwvZGl2Pg0K"
+            }
+          }
+        ]
+      },
+      {
+        "partId": "1",
+        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "filename": "Test document.docx",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document; name=\"Test document.docx\""
+          },
+          {
+            "name": "Content-Disposition",
+            "value": "attachment; filename=\"Test document.docx\""
+          },
+          {
+            "name": "Content-Transfer-Encoding",
+            "value": "base64"
+          },
+          {
+            "name": "Content-ID",
+            "value": "<f_mtq7fnkd0>"
+          },
+          {
+            "name": "X-Attachment-Id",
+            "value": "f_mtq7fnkd0"
+          }
+        ],
+        "body": {
+          "attachmentId": "ANGjdJ_w6xrd-GwsbzSs_I4hsfPGDK8fIFHHqDx4GaFjgvsLbVnvWhlSip6i9qlAdN3kTN9K97uEFaPsbbDsCAumexvxyow6rIApCnJPUxtL0xd_jmkKF_7nz-bDeS9RfDV6v2GLGjbl6ns4euppevnUXO8IYMgaoT-vSImQz13Smm0Usfwsv6wxwSaProcZE2Qm-VXuxj0_GePZ9mwz7jBC83bkOw0fIHUTxeqWwFOUO1EIdGdlKB1Bc_Vse4dR1q6sEUAqDvbUbrjVzix9mWiFXb7VZg7DkPMkl-ajbQ0Q2buYUgzV0cNvLMbyW_V8g0HaEkLZKpSpZFh3m1iAXMDmaTdIBeRkXels7gfzP6ugdDL3lPe-umRrpveX5FFf4jj5fk09z5O51P8vTrGH",
+          "size": 7690
+        }
+      },
+      {
+        "partId": "2",
+        "mimeType": "application/pdf",
+        "filename": "Test document.pdf",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "application/pdf; name=\"Test document.pdf\""
+          },
+          {
+            "name": "Content-Disposition",
+            "value": "attachment; filename=\"Test document.pdf\""
+          },
+          {
+            "name": "Content-Transfer-Encoding",
+            "value": "base64"
+          },
+          {
+            "name": "Content-ID",
+            "value": "<f_mtq7fnkm1>"
+          },
+          {
+            "name": "X-Attachment-Id",
+            "value": "f_mtq7fnkm1"
+          }
+        ],
+        "body": {
+          "attachmentId": "ANGjdJ_NwixaHkoAIme9ODQtnRoSIeBric8p41yKGuQxMz5-kCtbbFJNMFMZsNGVNddSqQcP-uhkH41EuEBvDQ88HcDPX96hwhEYiOBGBTg6v3FnBIP2zlj50dTIxenklDNt7ev1C-9bErkzPJfUYtapVa4ybHgWSWGW36EKYW3dlke_yMTnZS1xYXxn1IxfTfNCgKql01E7dROXJjmdPrrOZIq4RmgHF1t1pjvBoWIV2pEa78gzOeG-TVabdkXSNajScSGTHplx9ujfX4riMhj7tI-6fly-texDXXhhP3KXgwphiWWPAKXv27ikfGVXlImKDLxHLFFHyfiKMJH1s3ZhrK4cBQ8md69dOtROsYTxEYqKgy9cdxRncsdq6gkkzZDfZygx6ZSSP1SpNr4h",
+          "size": 35951
+        }
+      }
+    ]
+  },
+  "sizeEstimate": 67390,
+  "historyId": "15674768",
+  "internalDate": "1788722935000"
+}

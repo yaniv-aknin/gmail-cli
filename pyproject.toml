@@ -1,0 +1,35 @@
+[project]
+name = "gmail-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Yaniv Aknin", email = "yaniv@aknin.name" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "pypdf>=6.17.0",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+    "typer>=0.27.2",
+]
+
+[project.scripts]
+gmail = "gmail_cli:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-cov>=7.1.0",
+    "ruff>=0.16.6",
+]
+
+[tool.ruff.lint]
+ignore = ["B008"]
+

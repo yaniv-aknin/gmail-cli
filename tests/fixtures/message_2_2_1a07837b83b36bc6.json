@@ -1,0 +1,96 @@
+{
+  "id": "1a07837b83b36bc6",
+  "threadId": "1a0783250b4df5dd",
+  "labelIds": [
+    "UNREAD",
+    "IMPORTANT",
+    "SENT",
+    "INBOX"
+  ],
+  "snippet": "Thank you for your email. On Sun, 6 Sept 2026 at 20:29, Alice &lt;alice@example.com&gt; wrote:",
+  "payload": {
+    "partId": "",
+    "mimeType": "multipart/alternative",
+    "filename": "",
+    "headers": [
+      {
+        "name": "MIME-Version",
+        "value": "1.0"
+      },
+      {
+        "name": "Date",
+        "value": "Sun, 6 Sep 2026 20:35:12 +0100"
+      },
+      {
+        "name": "References",
+        "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+      },
+      {
+        "name": "In-Reply-To",
+        "value": "<CAGc91OGewy=i4DKQ=7KgHfnNxeApNaqwS3qmWRaiSHy+Dwvt7Q@mail.gmail.com>"
+      },
+      {
+        "name": "Message-ID",
+        "value": "<CAPzVZKmnRkR-1==OE34T0h_NYqf_sKBrvZ=E8BvwUhUW1VLsTA@mail.gmail.com>"
+      },
+      {
+        "name": "Subject",
+        "value": "Re: Test email ce2fbe86"
+      },
+      {
+        "name": "From",
+        "value": "Bob <bob@example.com>"
+      },
+      {
+        "name": "To",
+        "value": "Alice <alice@example.com>"
+      },
+      {
+        "name": "Content-Type",
+        "value": "multipart/alternative; boundary=\"000000000000a86600065ad599c2\""
+      }
+    ],
+    "body": {
+      "size": 0
+    },
+    "parts": [
+      {
+        "partId": "0",
+        "mimeType": "text/plain",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "text/plain; charset=\"UTF-8\""
+          }
+        ],
+        "body": {
+          "size": 111,
+          "data": "VGhhbmsgeW91IGZvciB5b3VyIGVtYWlsLg0KDQpPbiBTdW4sIDYgU2VwdCAyMDI2IGF0IDIwOjI5LCBBbGljZSA8YWxpY2VAZXhhbXBsZS5jb20-IHdyb3RlOg0KDQo-DQo-DQo="
+        }
+      },
+      {
+        "partId": "1",
+        "mimeType": "text/html",
+        "filename": "",
+        "headers": [
+          {
+            "name": "Content-Type",
+            "value": "text/html; charset=\"UTF-8\""
+          },
+          {
+            "name": "Content-Transfer-Encoding",
+            "value": "quoted-printable"
+          }
+        ],
+        "body": {
+          "size": 432,
+          "data": "PGRpdiBkaXI9Imx0ciI-VGhhbmsgeW91wqBmb3IgeW91ciBlbWFpbC48L2Rpdj48YnI-PGRpdiBjbGFzcz0iZ21haWxfcXVvdGUgZ21haWxfcXVvdGVfY29udGFpbmVyIj48ZGl2IGRpcj0ibHRyIiBjbGFzcz0iZ21haWxfYXR0ciI-T24gU3VuLCA2IFNlcHQgMjAyNiBhdCAyMDoyOSwgQWxpY2UgJmx0OzxhIGhyZWY9Im1haWx0bzphbGljZUBleGFtcGxlLmNvbSI-YWxpY2VAZXhhbXBsZS5jb208L2E-Jmd0OyB3cm90ZTo8YnI-PC9kaXY-PGJsb2NrcXVvdGUgY2xhc3M9ImdtYWlsX3F1b3RlIiBzdHlsZT0ibWFyZ2luOjBweCAwcHggMHB4IDAuOGV4O2JvcmRlci1sZWZ0OjFweCBzb2xpZCByZ2IoMjA0LDIwNCwyMDQpO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgZGlyPSJsdHIiPjxicj48L2Rpdj4NCjwvYmxvY2txdW90ZT48L2Rpdj4NCg=="
+        }
+      }
+    ]
+  },
+  "sizeEstimate": 1309,
+  "historyId": "15674780",
+  "internalDate": "1788723312000"
+}

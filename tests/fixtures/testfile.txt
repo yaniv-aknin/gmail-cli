@@ -1,0 +1,7 @@
+This is a textfile test.
+
+French (Français):
+Bonjour le monde ! Ceci est un test contenant des caractères accentués : é, è, ê, ë, à, â, ç, î, ï, ô, ù, û, ü, œ.
+
+Farsi (فارسی):
+سلام دنیا! این یک متن آزمایشی به زبان فارسی با حروف خاص مانند گ، چ، پ، ژ است.
